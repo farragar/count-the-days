@@ -23,6 +23,7 @@ times = [
 	(datetime.timedelta(hours=2, minutes=15), 'roughly {} walks into Banbury'),
 	(datetime.timedelta(days=5 * 365, ), '(very) roughly {} Moris Minor refurbishments'),
 	(datetime.timedelta(minutes=57), '{} playings of Muse - Absolution'),
+	(datetime.timedelta(minutes=2, seconds=40), '{} rides on Oblivion'),
 ]
 
 
